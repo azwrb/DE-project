@@ -1,3 +1,4 @@
 hello!
 this is my assignment1 of DE
 my name is Zhang Wenrui
+my student_id is 0351760
